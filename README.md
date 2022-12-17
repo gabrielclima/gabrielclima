@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**gabrielclima/gabrielclima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkeIn Profile | CV](https://www.linkedin.com/in/gabrielcslima)
 
-Here are some ideas to get you started:
+My name is Gabriel Lima. I'm a software engineer with nine years of experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Some open-source contributions I did 
+- https://github.com/microsoft/azure-pipelines-tasks/issues/13384
+- https://github.com/sendgrid/smtpapi-go/pull/53
+- https://github.com/sendgrid/rest/pull/59
+- https://github.com/sendgrid/sendgrid-go/pull/323
+- https://github.com/tsuru/tsuru/issues/1936
+- https://github.com/tsuru/gandalf/issues/212
+
+##### Communities I helped to lead as a volunteer: 
+- https://github.com/gdgrio
+- https://github.com/GDGDuqueDeCaxias
+
+### Contact me
+- email: gabrielcastroslima@gmail.com
+- LinkeIn: [linkedin.com/in/gabrielcslima](https://www.linkedin.com/in/gabrielcslima)
